@@ -28,7 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '158.160.8.23',
     'www.orangelu.pythonanywhere.com',
-    'orangelu.pythonanywhere.com',]
+    'orangelu.pythonanywhere.com',
+]
 
 
 # Application definition
